@@ -56,7 +56,7 @@ El sistema sigue una arquitectura modular y estructurada, dividida en un **backe
 
 ---
 
-## 🗣️ Flujo Conversacional
+## Flujo Conversacional
 
 El flujo sigue un ciclo simple de "Pregunta -> Búsqueda -> Respuesta".
 
